@@ -1,0 +1,21 @@
+{
+  "name": "MaafwSkills",
+  "owner": {
+    "name": "TanyaShue"
+  },
+  "plugins": [
+    {
+      "name": "MaafwSkillsPython",
+      "description": "一个用于指导ai掌握MaaFramework的技能",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/MaafwSkillsPython"
+      ],
+      "version": "1.0.0",
+      "author": {
+        "name": "TanyaShue"
+      }
+    }
+  ]
+}
