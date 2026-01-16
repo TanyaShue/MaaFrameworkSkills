@@ -1,6 +1,6 @@
 ---
 name: MaafwSkillsPython
-description: MaaFramework(简称maafw或者maa) Python API 文档与用法参考。用于理解maafw的架构、接口与实现自动化方案；包含资源、控制器、任务器、上下文、扩展与 Agent 模式的用法与示例。当用户询问与maafw相关内容或者在代码调用中遇见与maafw相关代码时主动调用该技能
+description: MaaFramework(简称maafw或者maa) Python API 文档与用法参考。用于理解maafw的架构、接口与实现自动化方案；包含资源、控制器、任务器、上下文、扩展与 Agent 模式的用法与示例。当用户询问与maafw相关内容或者在代码中遇见与maafw相关代码时主动调用该技能
 ---
 
 # MaaFramework Python Skill

@@ -1,7 +1,9 @@
 {
   "name": "MaafwSkills",
   "owner": {
-    "name": "TanyaShue"
+    "name": "TanyaShue",
+    "source":"github",
+    "repo": "TanyaShue/MaaFrameworkSkills"
   },
   "plugins": [
     {
